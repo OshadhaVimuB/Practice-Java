@@ -26,5 +26,7 @@ public class MadLibs {
         System.out.println("In a exhibit, I saw a " + noun1 + ".");
         System.out.println(noun1 + " was " + adg2 + " and " + verb1 + "!");
         System.out.println("I was " + adg3 + "!");
+
+        sc.close();
     }
 }
